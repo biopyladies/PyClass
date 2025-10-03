@@ -67,6 +67,8 @@ Este repositório é mantido por voluntárias do Pyladies Bioinfo. Este material
 **Aula 10 | Classes**: 
 - [Video-aula](https://youtu.be/6-ls5JIwXF4) 
 - [Aula](class10/class.ipynb)
+- [Exercícios](class10/exercises.ipynb) 
+- [Respostas](class10/responses.ipynb)
 
 **Aula 11 | Git e Github**: 
 - [Video-aula](https://youtu.be/Xhy8-KeJOXo) 
